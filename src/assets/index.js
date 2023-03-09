@@ -1,4 +1,6 @@
 import logo from "./logo.svg";
+import dlogo from "./dlogo.png";
+import me from "./me.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -59,4 +61,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  dlogo,
+  me,
 };
