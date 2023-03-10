@@ -25,7 +25,7 @@ const Computers = ({isMobile}) => {
       castShadow={true}
       shadow-mapSize={1024}/>
       <Model
-      scale = {1.75}
+      scale = {2}
       position={[0, -3.25, -1.5]}/>
     </mesh>
   )
@@ -56,7 +56,7 @@ const ComputersCanvas = () => {
   }, []);
   return (
     <Canvas frameLoop="demand"
-    camera = {{position: [2, 0, 12.25], fov: 15}}
+    camera = {{position: [2, 0, 12.25], fov: 20}}
     gL ={{preserveDrawingBuffer:true}}>
       <Suspense fallback={<CanvasLoader />}>
         <OrbitControls 
