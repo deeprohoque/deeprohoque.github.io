@@ -47,9 +47,27 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am a fourth year undergraduate at Carnegie Mellon University 
-    studying Statistics, Machine Learning, and Computer Science. I am
-    set to join Slack as a software engineer in August 2023. 
+        I am currently a fourth year undergraduate at Carnegie Mellon University 
+    earning my B.S. in Statistics and Machine Learning with a minor in Computer Science. 
+    Through my coursework, I have developed a solid foundation in 
+    data structures, algorithms, computer systems, and 
+    statistical methods for data science and machine learning.<br className='sm:block hidden' />
+    <br className='sm:block hidden' />
+
+    As an engineer, my mission is to use my technical 
+    expertise and problem-solving skills to develop 
+    innovative software solutions that meet the needs of users and organizations. 
+    I am committed to delivering high-quality code that is scalable, efficient, and maintainable,
+     and to continually improving my skills and knowledge through ongoing learning and collaboration
+     with others. I strive to work collaboratively with cross-functional teams, communicate effectively, 
+      and deliver results that exceed expectations.
+      Through my work, I aim to create intelligent software solutions that drive innovation and
+      create value in the digital world. <br className='sm:block hidden' />
+      <br className='sm:block hidden' />
+
+    I will be joining Slack as a full-time software engineer in August 2023. 
+
+
       </motion.p>
 
       {/* <div className='mt-20 flex flex-wrap gap-10'>

@@ -22,6 +22,18 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import C from "./tech/C.png";
+import Cplus from "./tech/c++.png";
+import elastic from "./tech/elasticsearch.svg";
+import gym from "./tech/gym.svg";
+import java from "./tech/java.png";
+import jenkins from "./tech/jenkins.png";
+import jira from "./tech/jira.png";
+import python from "./tech/python.png";
+import pytorch from "./tech/pytorch.png";
+import R from "./tech/R.png";
+import sml from "./tech/smlnj.png";
+import tensor from "./tech/tensorflow.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -71,4 +83,16 @@ export {
   slack,
   zoom,
   carnegie,
+  C,
+  Cplus,
+  elastic,
+  gym,
+  java,
+  jenkins,
+  jira,
+  python,
+  R,
+  sml,
+  tensor,
+  pytorch,
 };
