@@ -49,7 +49,7 @@ const About = () => {
       >
         I am currently a fourth year undergraduate at Carnegie Mellon University 
     earning my B.S. in Statistics and Machine Learning with a minor in Computer Science. 
-    Through my coursework, Jay Sun has developed a solid foundation in 
+    Through my coursework, I have developed a solid foundation in 
     data structures, algorithms, computer systems, and 
     statistical methods for data science and machine learning. <br className='sm:block hidden' />
     <br className='sm:block hidden' />

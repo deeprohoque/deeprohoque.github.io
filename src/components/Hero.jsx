@@ -22,7 +22,7 @@ const Hero = () => {
             Deepro</span></h1>
             <p className ={`${styles.heroSubText} mt-2
             text-white-100`}>
-              How can I be homophobic. I'm gay.
+              This is me fr.
             </p>
         </div>
       </div>
