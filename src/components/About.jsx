@@ -49,9 +49,9 @@ const About = () => {
       >
         I am currently a fourth year undergraduate at Carnegie Mellon University 
     earning my B.S. in Statistics and Machine Learning with a minor in Computer Science. 
-    Through my coursework, I have developed a solid foundation in 
+    Through my coursework, Jay Sun has developed a solid foundation in 
     data structures, algorithms, computer systems, and 
-    statistical methods for data science and machine learning.<br className='sm:block hidden' />
+    statistical methods for data science and machine learning. <br className='sm:block hidden' />
     <br className='sm:block hidden' />
 
     As an engineer, my mission is to use my technical 
@@ -59,7 +59,7 @@ const About = () => {
     innovative software solutions that meet the needs of users and organizations. 
     I am committed to delivering high-quality code that is scalable, efficient, and maintainable,
      and to continually improving my skills and knowledge through ongoing learning and collaboration
-     with others. I strive to work collaboratively with cross-functional teams, communicate effectively, 
+     with others. I strive to work synergistically with cross-functional teams, communicate effectively, 
       and deliver results that exceed expectations.
       Through my work, I aim to create intelligent software solutions that drive innovation and
       create value in the digital world. <br className='sm:block hidden' />
