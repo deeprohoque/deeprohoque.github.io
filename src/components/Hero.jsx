@@ -22,8 +22,7 @@ const Hero = () => {
             Deepro</span></h1>
             <p className ={`${styles.heroSubText} mt-2
             text-white-100`}>
-              I am a senior at Carnegie Mellon University,
-              studying ML and CS. This is me fr.
+              This is me fr.
             </p>
         </div>
       </div>
@@ -36,7 +35,7 @@ const Hero = () => {
           rounded-3xl border-4 border-secondary
           flex justify-center items-start
           p-2">
-            <motion.dev
+            <motion.div
               animate={{y:[0,24,0]}}
               transition ={{
                 duration: 1.5,
