@@ -11,7 +11,7 @@ import { SectionWrapper } from "../hoc"
 
 import { textVariant } from "../utils/motion"
 
-
+const experiences1 = [...experiences].reverse()
 const ExperienceCard = ({experience}) => (
   <VerticalTimelineElement contentStyle ={{background: "#1d1836", color:"#fff"}}
   contentArrowStyle={{borderRight: '7px solid #232631'}}
@@ -48,7 +48,7 @@ const Experience = () => {
 
       <div className="mt-20 flex flex-col">
         <VerticalTimeline>
-          {experiences.map((experience, index) =>
+          {experiences1.map((experience, index) =>
           (<ExperienceCard key={index} experience = {experience} />))}
         </VerticalTimeline>
       </div>
